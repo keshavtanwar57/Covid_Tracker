@@ -37,5 +37,17 @@
 ### This app is developed using flutter and dart. This app uses HTTP package and fetches all the data of different regions with the help of covid API.
 
 ##  ⚙️ Tools and Technologies Used
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
+
+
+
+
 ## 🔽 Download the App from here
 <a href="https://drive.google.com/drive/folders/1W-IjDzXX-6sUpev2aWBctajaIF2W7jtZ?usp=sharing">Click Here</a>
