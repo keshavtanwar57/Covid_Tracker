@@ -16,7 +16,7 @@
 ### Screenshots from the app
 <table style="width:100%">
  <th>
-<img src="s1.jpeg" alt="demo" >
+<img src="s1.jpg" alt="demo" >
   </th>
  <th>
 <img src="s2.jpeg" alt="demo">
@@ -29,12 +29,20 @@
  <th>
 <img src="s4.jpeg" alt="demo">
   </th>
+  <th>
+<img src="s5.jpg" alt="demo">
+  </th>
+  <th>
+<img src="s6.jpg" alt="demo">
+  </th>
 </table>
 
 ## 💡 Inspiration
-### We all have been affected by the current COVID-19 pandemic. However, the impact of the pandemic and its consequences are felt differently depending on our status as individuals and as members of society. While some try to adapt to working online, homeschooling their children and ordering food via Instacart, others have no choice but to be exposed to the virus while keeping society functioning. Our different social identities and the social groups we belong to determine our inclusion within society and, by extension, our vulnerability to epidemics. Prier this application it was a bit tedious to get the status of covid-19 cases stats of your region, earlier users had to search it on Google go through several websites then the user might get the correct stats with this I tried to solve this problem this is simple and easy to use the app. User can select their region and within seconds get stats of their local region.
+### We all have been affected by the current COVID-19 pandemic some try to adapt to working online, others have no choice but to be exposed to the virus while keeping society functioning which results in a rise of covid cases, and at the same time pneumonia cases were also rising so it becomes even more difficult to distinguish between covid and pneumonia symptoms. There was a shortage of working medical professionals as well so I developed this application where users can upload their x chest rays in the app, with the help of deep learning the app tells you whether you are infected with the covid virus or not and the app also tells about the covid cases in user's vicinity.
+
 ## 🧑‍💻 Working
-### This app is developed using flutter and dart. This app uses HTTP package and fetches all the data of different regions with the help of covid API.
+### This app is developed using flutter and dart. This app uses the HTTP and Dio package and fetches all the data of different regions with the help of covid API. The app uses a deep learning model (developed using TensorFlow, Keras, and python) for chest x-ray classification into covid, normal and viral Pneumonia. The deep learning model is deployed with the help of fastAPI.
+
 
 ##  ⚙️ Tools and Technologies Used
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
