@@ -1,14 +1,14 @@
 <h1> Covid-Tracker</h1>
 <table width: "100%">
-  <td>
-  <img src="demo.gif" alt="demo">
-  </td>
+<!--   <td>
+  <img src="demo.gif" alt="demo1">
+  </td> -->
   <td>
   <img src="sc2.gif" alt="demo">
   </td>
-  <td width: "70%">
+  <td>
     <h1> Covid-Tracker</h1>
-    <p>Get covid stats of your region within seconds and get updated with all the precautions and symptoms of Covid.</p>
+    <p>Get covid report and covid stats of your region within seconds and get updated with all the precautions and symptoms of Covid.</p>
 
   </td>
 
