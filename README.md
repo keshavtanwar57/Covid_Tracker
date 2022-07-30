@@ -44,11 +44,11 @@
   </th>
 </table>
 
-## 🔽 Download the App <a href="https://drive.google.com/drive/folders/1W-IjDzXX-6sUpev2aWBctajaIF2W7jtZ?usp=sharing">Click Here</a>
+## ➡️ Download the App <a href="https://drive.google.com/drive/folders/1W-IjDzXX-6sUpev2aWBctajaIF2W7jtZ?usp=sharing">Click Here</a>
 
-## 🔽 Developed API documentaion <a href="https://covid-classifier-api.herokuapp.com/docs">Click Here</a>
+## ➡️ Developed API documentaion <a href="https://covid-classifier-api.herokuapp.com/docs">Click Here</a>
 
-## 🔽 Web App <a href="https://covid-classifier-webapp.herokuapp.com/">Click Here</a>
+## ➡️ Web App <a href="https://covid-classifier-webapp.herokuapp.com/">Click Here</a>
 
 ## 💡 Inspiration
 ### We all have been affected by the current COVID-19 pandemic some try to adapt to working online, others have no choice but to be exposed to the virus while keeping society functioning which results in a rise of covid cases, and at the same time pneumonia cases were also rising so it becomes even more difficult to distinguish between covid and pneumonia symptoms. There was a shortage of working medical professionals as well so I developed this application where users can upload their x chest rays in the app, with the help of deep learning the app tells you whether you are infected with the covid virus or not and the app also tells about the covid cases in user's vicinity.
