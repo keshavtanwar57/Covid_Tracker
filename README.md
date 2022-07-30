@@ -4,12 +4,16 @@
   <img src="demo.gif" alt="demo1">
   </td> -->
   <td>
-  <img src="sc2.gif" alt="demo">
+  <img src="sc2.gif" alt="demo" height = "420">
   </td>
   <td>
     <h1> Covid-Tracker</h1>
-    <p>Get covid report and covid stats of your region within seconds and get updated with all the precautions and symptoms of Covid.</p>
-
+<!--     <p>Get covid report and covid stats of your region within seconds and get updated with all the precautions and symptoms of Covid.</p>
+ -->
+● Showsthe status of Corona casesin variousIndian states and citiesin real time. <br>
+● With Deep learning, the app can classify chest x-rays into covid, normal, & pneumonia with 97.61% accuracy. <br>
+● Reduce modelsize by Quantization training from 50.43 mb to 4.17 mb. <br>
+● Developed and deployed a FastAPI forthe trained model. <br>
   </td>
 
 
