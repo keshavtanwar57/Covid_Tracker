@@ -4,7 +4,7 @@
   <img src="demo.gif" alt="demo1">
   </td> -->
   <td>
-  <img src="sc2.gif" alt="demo" height = "420">
+  <img src="sc2.gif" alt="demo" height = "420" width="190">
   </td>
   <td>
     <h1> Covid-Tracker</h1>
