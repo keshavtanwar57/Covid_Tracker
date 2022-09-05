@@ -16,6 +16,9 @@ enum ScreenState {
   NORMAL,
   PNEUMONIA,
 }
+
+String api_url = 'https://covid-classifier-api.herokuapp.com/';
+
 int index = 0;
 dynamic Result = 'NO Result';
 dynamic Prob = 100;
@@ -87,9 +90,8 @@ class _CovidScanState extends State<CovidScan> {
                             }
 
                             var dio = Dio();
-                            dynamic response1 = await dio.post(
-                                'https://delta-diagnose-api.herokuapp.com/',
-                                data: {'url': img_url});
+                            dynamic response1 =
+                                await dio.post(api_url, data: {'url': img_url});
                             print(response1.data);
                             Result = response1.data;
                             Prob = response1.data['class_probablity'];
@@ -143,9 +145,8 @@ class _CovidScanState extends State<CovidScan> {
                               print(e.request);
                             }
                             var dio = Dio();
-                            dynamic response1 = await dio.post(
-                                'https://delta-diagnose-api.herokuapp.com/',
-                                data: {'url': img_url});
+                            dynamic response1 =
+                                await dio.post(api_url, data: {'url': img_url});
                             print(response1.data);
                             Result = response1.data;
                             Prob = response1.data['class_probablity'];
@@ -221,7 +222,6 @@ Resultscreen(context) {
       : Result['class'] == 'normal'
           ? index = 1
           : index = 2;
-  index = 1;
   return Scaffold(
     backgroundColor: kbackgroundColor,
     body: SafeArea(
