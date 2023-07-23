@@ -4,7 +4,7 @@
   <img src="demo.gif" alt="demo1">
   </td> -->
   <td>
-  <img src="https://ibb.co/bLM3jQc" alt="demo" height = "420" width="190">
+  <img src="./sc2.gif" alt="demo" height = "420" width="190">
   </td>
   <td>
     <h1> Covid-Tracker</h1>
@@ -23,24 +23,24 @@
 ### Screenshots from the app
 <table style="width:100%">
  <th>
-<img src="s1.jpg" alt="demo" >
+<img src="./s1.jpg" alt="demo" >
   </th>
  <th>
-<img src="s2.jpeg" alt="demo">
+<img src="./s2.jpeg" alt="demo">
   </th>
 
  <th>
-<img src="s3.jpeg" alt="demo">
+<img src="./s3.jpeg" alt="demo">
   </th>
 
  <th>
-<img src="s4.jpeg" alt="demo">
+<img src="./s4.jpeg" alt="demo">
   </th>
   <th>
-<img src="s5.jpg" alt="demo">
+<img src="./s5.jpg" alt="demo">
   </th>
   <th>
-<img src="s6.jpg" alt="demo">
+<img src="./s6.jpg" alt="demo">
   </th>
 </table>
 
